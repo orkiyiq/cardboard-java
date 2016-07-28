@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "D:\\ROY\\Android\\3rdJAR\\DEMO\\cardboard-java\\cardboard-java\\CardboardSample\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "D:\\ROY\\Android\\3rdJAR\\DEMO\\cardboard-java\\cardboard-java\\CardboardSample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\ROY\\Android\\3rdJAR\\DEMO\\cardboard-java\\cardboard-java-7fa8fc70fc7434938b09dea5df25465a610b70ef\\CardboardSample\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "D:\\ROY\\Android\\3rdJAR\\DEMO\\cardboard-java\\cardboard-java-7fa8fc70fc7434938b09dea5df25465a610b70ef\\CardboardSample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            }
+        ]
+    }
+]

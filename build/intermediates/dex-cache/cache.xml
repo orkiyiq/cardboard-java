@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\ROY\Android\3rdJAR\DEMO\cardboard-java\cardboard-java-7fa8fc70fc7434938b09dea5df25465a610b70ef\CardboardSample\libs\audio.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="74fcb5c43eb6843ec691a1a1013a4d38eac2de41">
+        <dex dex="D:\ROY\Android\3rdJAR\DEMO\cardboard-java\cardboard-java-7fa8fc70fc7434938b09dea5df25465a610b70ef\CardboardSample\build\intermediates\pre-dexed\debug\audio_0c638497e45ba5d13625d710a2aea2aee0959c15.jar" />
+    </item>
+    <item
+        jar="D:\ROY\Android\3rdJAR\DEMO\cardboard-java\cardboard-java-7fa8fc70fc7434938b09dea5df25465a610b70ef\CardboardSample\libs\cardboard.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="32c8e30df7bdcbf982603f70aeaf89e207f44219">
+        <dex dex="D:\ROY\Android\3rdJAR\DEMO\cardboard-java\cardboard-java-7fa8fc70fc7434938b09dea5df25465a610b70ef\CardboardSample\build\intermediates\pre-dexed\debug\cardboard_3f4379d88199185ec01f0d98a93aea096c2e5f98.jar" />
+    </item>
+
+</items>
